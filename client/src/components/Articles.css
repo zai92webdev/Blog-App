@@ -1,0 +1,8 @@
+.articles { 
+    margin-top: 1rem;
+}
+
+.articles__card{
+    padding: 10px 20px 20px 20px;
+    flex-wrap: wrap !important;
+}

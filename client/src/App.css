@@ -1,0 +1,21 @@
+.App {
+    min-height: 100vh;
+    background-color: rgb(235, 235, 235);
+}
+
+.navbar {
+    text-align:  center;
+    padding: 20px;
+    background-color: rgba(24, 24, 59, 0.952);
+    color: rgb(216, 216, 216);
+    margin-bottom: 20px;
+}
+
+.app__section {
+    padding: 20px;
+}
+
+.app__section h1 {
+    font-size: 3rem;
+    margin-bottom: 20px;
+}

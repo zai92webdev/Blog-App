@@ -1,0 +1,5 @@
+export const FETCH_ARTICLES = 'FETCH_ARTICLES';
+
+export const NEW_ARTICLE = 'NEW_ARTICLE';
+export const DELETE_ARTICLE = 'DELETE_ARTICLE'
+export const UPDATE_ARTICLE = 'UPDATE_ARTICLE'
